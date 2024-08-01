@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\fiql_tools.props" />
+</Project>
